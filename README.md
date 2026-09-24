@@ -1,4 +1,4 @@
-# Netflix UI Clone
+# Netflix UI
 
 This is a Netflix UI clone made by me using **Flutter** and **Dart**.
 
